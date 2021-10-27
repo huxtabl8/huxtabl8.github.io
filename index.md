@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Here's what I will be talking about on my blog:
 
-Maybe say a some things about yourself.
+computers, art, retro stuff, and anything nerdy!
 
-Or maybe what you plan to blog about.
+Make sure to check back for more posts!
