@@ -1,5 +1,4 @@
-<link rel="shortcut icon" type="image/png" 
-      href="{{ "Icon.png"  | absolute_url }}">
+<link rel="shortcut icon" type="image/png" href="/Icon.png">
 title: "Hux's Blog"
 author: "Houston Bentz"
 description: "WIP - In construction!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
